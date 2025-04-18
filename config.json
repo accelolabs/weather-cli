@@ -1,0 +1,8 @@
+{
+    "ninjas_api_key": "API KEY HERE",
+    "refresh_interval": 5,
+    "init_days": 3,
+    "cities": [
+        ""
+    ]
+}
